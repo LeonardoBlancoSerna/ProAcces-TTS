@@ -1,0 +1,14 @@
+# Reglas de Español para ProAcces
+que -> ke
+qui -> ki
+ch -> C
+ll -> y
+ñ -> N
+v -> b
+h -> 
+j -> x
+z -> s
+ge -> xe
+gi -> xi
+ce -> ze
+ci -> zi

@@ -1,0 +1,23 @@
+# --- Reglas de Oro: English ProAcces ---
+# Artículos y Pronombres
+the -> da
+th -> d
+you -> yu
+are -> R_ANG
+is -> is
+my -> mai
+# Vocales Dobles (Diptongos)
+ee -> i
+oo -> u
+ea -> i
+oa -> o
+ai -> ei
+# Terminaciones comunes
+tion -> Son
+ing -> in
+ght -> t
+# La R Inglesa (Líquida)
+r -> R_ANG
+# Casos especiales
+hello -> xelo
+apple -> apul

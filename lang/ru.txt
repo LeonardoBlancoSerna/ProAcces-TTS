@@ -1,0 +1,20 @@
+# Mapeo de Cirílico a fonemas ProAcces
+б -> b
+в -> b
+г -> g
+д -> d
+ж -> S
+з -> s
+к -> k
+л -> l
+м -> m
+н -> n
+п -> p
+р -> R_LAT
+с -> s
+т -> t
+ф -> f
+х -> x
+ц -> ts
+ч -> C
+ш -> S

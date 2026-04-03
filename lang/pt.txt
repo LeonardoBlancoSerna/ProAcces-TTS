@@ -1,0 +1,19 @@
+# Reglas de Portugués para ProAcces
+# Nasales Portuguesas
+ão -> on
+am -> an
+em -> en
+im -> in
+om -> on
+um -> un
+nh -> N
+r -> R_LAT
+lh -> y
+nh -> N
+ç -> s
+ão -> ã
+ões -> õis
+di -> Ci
+de -> Ci
+ti -> Ci
+te -> Ci

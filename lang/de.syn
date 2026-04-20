@@ -1,0 +1,21 @@
+# Reglas de Alemán para ProAcces
+ei -> ai
+ie -> i
+sch -> S
+ch -> x
+v -> f
+w -> b
+z -> ts
+u -> u
+ü -> i
+ö -> e
+ä -> e
+eu -> oi
+st -> St
+sp -> Sp
+# La R alemana es muy gutural
+r -> R_GER
+# Terminación típica er -> a (débil)
+er -> a
+# s inicial a veces suena z
+s -> z

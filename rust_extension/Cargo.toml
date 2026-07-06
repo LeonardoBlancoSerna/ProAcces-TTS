@@ -1,0 +1,17 @@
+[package]
+name = "proacces_rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "proacces_rust"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.19", features = ["extension-module"] }
+numpy = "0.17"
+ndarray = "0.15"
+rand = "0.8"
+
+[package.metadata.maturin]
+bindings = "pyo3"
